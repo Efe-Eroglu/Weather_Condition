@@ -1,0 +1,10 @@
+C:\Users\Efe\source\repos\Weather-Condition\Weather-Condition\bin\Debug\Weather-Condition.exe.config
+C:\Users\Efe\source\repos\Weather-Condition\Weather-Condition\bin\Debug\Weather-Condition.exe
+C:\Users\Efe\source\repos\Weather-Condition\Weather-Condition\bin\Debug\Weather-Condition.pdb
+C:\Users\Efe\source\repos\Weather-Condition\Weather-Condition\obj\Debug\Weather-Condition.csproj.AssemblyReference.cache
+C:\Users\Efe\source\repos\Weather-Condition\Weather-Condition\obj\Debug\Weather_Condition.Form1.resources
+C:\Users\Efe\source\repos\Weather-Condition\Weather-Condition\obj\Debug\Weather_Condition.Properties.Resources.resources
+C:\Users\Efe\source\repos\Weather-Condition\Weather-Condition\obj\Debug\Weather-Condition.csproj.GenerateResource.cache
+C:\Users\Efe\source\repos\Weather-Condition\Weather-Condition\obj\Debug\Weather-Condition.csproj.CoreCompileInputs.cache
+C:\Users\Efe\source\repos\Weather-Condition\Weather-Condition\obj\Debug\Weather-Condition.exe
+C:\Users\Efe\source\repos\Weather-Condition\Weather-Condition\obj\Debug\Weather-Condition.pdb
